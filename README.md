@@ -40,3 +40,4 @@ In conclusion, Task 1 allowed me to build a fully functional text summarization 
 
 **OUTPUT:
 
+<img width="1635" height="152" alt="Image" src="https://github.com/user-attachments/assets/3b67b87b-cac5-48ad-b545-0ec8004b2aa7" />
